@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GopiResume/static/css/main.f8dba108.css",
+    "main.js": "/GopiResume/static/js/main.fbda74e0.js",
+    "static/js/213.ede2cc13.chunk.js": "/GopiResume/static/js/213.ede2cc13.chunk.js",
+    "static/js/732.8b626db9.chunk.js": "/GopiResume/static/js/732.8b626db9.chunk.js",
+    "static/media/shoe_shop.png": "/GopiResume/static/media/shoe_shop.c0871101c15269ae44ef.png",
+    "static/media/HrPortal.png": "/GopiResume/static/media/HrPortal.b08214b6f4e403ca1ebd.png",
+    "static/media/chatApp.png": "/GopiResume/static/media/chatApp.44b1fc4eff18a370664a.png",
+    "index.html": "/GopiResume/index.html",
+    "main.f8dba108.css.map": "/GopiResume/static/css/main.f8dba108.css.map",
+    "main.fbda74e0.js.map": "/GopiResume/static/js/main.fbda74e0.js.map",
+    "213.ede2cc13.chunk.js.map": "/GopiResume/static/js/213.ede2cc13.chunk.js.map",
+    "732.8b626db9.chunk.js.map": "/GopiResume/static/js/732.8b626db9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8dba108.css",
+    "static/js/main.fbda74e0.js"
+  ]
+}
