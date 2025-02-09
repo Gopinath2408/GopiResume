@@ -51,7 +51,7 @@ const ProjectPage = () => {
 
               **Chat Application** 💬 is a real-time messaging platform built with **React** ⚛️ for an interactive frontend and **Firebase** 🔥 for seamless backend communication. Instead of using WebSockets, it leverages **Firebase Realtime Database** 📡 to store and retrieve messages instantly. Multiple users can join the same chat room using a shared **Room ID** 🔗, enabling effortless group conversations.
             </p>
-            <a href="https://github.com/Gopinath2408/Hrportal-Management-System" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Gopinath2408/ChatApp" target="_blank" rel="noopener noreferrer">
               View on GitHub
             </a>
           </div>
